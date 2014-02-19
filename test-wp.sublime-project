@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/user/sites/test_wp/app/"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/user/sites/test_wp/wp-content/themes/test/"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/user/sites/test_wp/wp-content/plugins/"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/user/sites/test_wp/",
+			"file_exclude_patterns": ["license.txt","readme.html"],
+			"folder_exclude_patterns": ["wp-*","node_modules","bower_components","app"]
+		}
+	]
+}

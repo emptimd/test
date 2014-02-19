@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test_",
+				"test_wp/"
+			],
+			[
+				"test",
+				"test_wp/"
+			],
+			[
+				"t",
+				"themes"
+			],
+			[
+				"ma",
+				"main.css"
+			],
+			[
+				"th",
+				"theme"
+			],
+			[
+				"te",
+				"theme"
+			],
+			[
+				"pr",
+				"props"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/user/sites/test_wp/app/index.html",
+			"settings":
+			{
+				"buffer_size": 10822,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/user/sites/test_wp/app/less/main.less",
+			"settings":
+			{
+				"buffer_size": 3329,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/user/sites/boilerplate/untitled.sublime-project",
+		"/home/user/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/user/sites/boilerplate/test.txt",
+		"/home/user/sites/seqstereo.git/index.html",
+		"/home/user/sites/test_wp/app/index.html",
+		"/home/user/sites/generator-wp/app/templates/_package.json",
+		"/home/user/sites/test_wp/Gruntfile.js",
+		"/home/user/sites/test_wp/app/less/main.less",
+		"/home/user/sites/seqstereo.git/package.json",
+		"/home/user/sites/boilerplate/Gruntfile.js",
+		"/home/user/sites/test_wp/package.json",
+		"/home/user/sites/generator-wp/app/templates/_bower.json",
+		"/home/user/sites/generator-wp/app/templates/all.sh",
+		"/home/user/Public/Bogdan/chrome-tabs",
+		"/home/user/sites/boilerplate/index.html",
+		"/home/user/sites/boilerplate/package.json",
+		"/home/user/sites/generator-wp/package.json",
+		"/home/user/sites/generator-wp/README.md",
+		"/home/user/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/user/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eli",
+			"dev/",
+			"//",
+			"0",
+			"//",
+			"translate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/user/sites/test_wp/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/user/sites/test_wp/app/less/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "/home/user/sites/test_wp/test-wp.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/sites/test_wp/test-wp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

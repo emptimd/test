@@ -1,0 +1,31 @@
+{
+  "name": "test-project",
+  "version": "0.0.0",
+  "description": "Wp Project",
+  "theme": {
+    "author": "Bogdan"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-autoprefixer": "latest",
+    "grunt-remove-logging": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-newer": "latest",
+    "time-grunt": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-webshot": "latest",
+    "grunt-image-resize": "latest"
+  },
+  "dependencies": {
+    "time-grunt": "latest"
+  },
+  "keywords": [
+    "test-wp"
+  ],
+  "license": "MIT"
+}
